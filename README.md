@@ -1,3 +1,4 @@
 # AcademiaTristezense
-Technical Course Final Project.
-test
+Technical Course Final Project. \n
+.NET - Visual C# 
+
